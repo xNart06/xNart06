@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="219" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"  />
+<img align="right" height="145" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"  />
 
 ###
 
