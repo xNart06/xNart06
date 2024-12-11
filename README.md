@@ -1,14 +1,6 @@
 <h2 align="center">Hi 👋! My name is Furkan and I'm a Computer Engineering student, from Turkey</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xNart06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xNart06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="left" height="121" src="https://media1.tenor.com/m/4HHS5-SdZYIAAAAd/hi-doggy.gif"  />
 
 ###
@@ -40,6 +32,8 @@
 </div>
 
 ###
+###
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/furkanhamzabolat/" target="_blank">
@@ -55,9 +49,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/xNart06/xNart06/output/snake.svg" alt="Snake animation" />
